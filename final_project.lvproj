@@ -19,6 +19,7 @@
 		<Item Name="db" Type="Folder" URL="../db">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="confirm_function.vi" Type="VI" URL="../confirm_function.vi"/>
 		<Item Name="init.vi" Type="VI" URL="../init.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="select random file.vi" Type="VI" URL="../select random file.vi"/>
