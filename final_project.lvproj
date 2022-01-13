@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="confirm_function.vi" Type="VI" URL="../confirm_function.vi"/>
 		<Item Name="init.vi" Type="VI" URL="../init.vi"/>
+		<Item Name="labview_python.vi" Type="VI" URL="../labview_python.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="select random file.vi" Type="VI" URL="../select random file.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
